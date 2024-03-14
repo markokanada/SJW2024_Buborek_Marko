@@ -1,0 +1,9 @@
+header {
+    height: 400px;
+    background-image: url(../img/balaton_bg.jpg);
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
